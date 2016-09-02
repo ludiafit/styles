@@ -137,7 +137,7 @@
               <date-part name="year"/>
             </date>
             <group prefix="; ">
-              <text variable="volume" font-weight="bold"/>
+              <text variable="volume" />
               <text variable="page" prefix=": "/>
             </group>
           </group>
